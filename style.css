@@ -1,0 +1,31 @@
+body{
+    background-image: url("film.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    margin-top: 50px;
+    
+}
+.siva{
+    color: whitesmoke;    
+}
+
+
+.red{
+    margin-bottom: 30px;
+}
+
+.error{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+    width: 100%;
+}
+
